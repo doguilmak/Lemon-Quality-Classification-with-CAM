@@ -14,7 +14,7 @@
 
 Dataset contains images of both bad and good quality lemons under slightly different lighting conditions (all under daylight) and sizes.
 
-<b>Within the scope of this project, a classification model was builded whether lemons have good quality, bad quality or empty through data.</b>The results of the model on the test data are in the <a  href="https://github.com/doguilmak/Lemon-Quality-Classification-with-CAM/blob/main/model_predictions.csv">model_predictions.csv</a> excel file. Just click the link to view.</p>
+<b>Within the scope of this project, a classification model was builded whether lemons have good quality, bad quality or empty through data.</b>The results of the model on the test data are in the <a  href="https://github.com/doguilmak/Lemon-Quality-Classification-with-CAM/blob/main/model_predictions.csv">model_predictions.csv</a> file. Just click the link to view.</p>
 
 <br>
 
