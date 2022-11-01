@@ -220,7 +220,7 @@ def define_model(input_shape, num_classes):
   
   return model
 
-model = define_model(224, 3) # 224x224 as pixels and 4 as leave classes
+model = define_model(224, 3) # 224x224 as pixels and 3 as lemon classes
 
 model.compile(loss='categorical_crossentropy',metrics=['accuracy'],optimizer=tf.keras.optimizers.RMSprop(lr=0.001))
 model.fit(train_generator, epochs=32)
