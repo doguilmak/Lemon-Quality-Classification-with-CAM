@@ -1,4 +1,4 @@
-<h1  align=center><font  size = 6>Lemon Quality Classification with Class Activation Map</font></h1>
+<h1  align=center><font  size = 5>Lemon Quality Classification with Class Activation Map</font></h1>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 Dataset contains images of both bad and good quality lemons under slightly different lighting conditions (all under daylight) and sizes.
 
-<b>Within the scope of this project, a classification model was builded whether lemons have good quality, bad quality or empty through data.</b>The results of the model on the test data are in the <a  href="https://github.com/doguilmak/Analysis-of-Algorithms/blob/main/recurrences/recurrences_1.java">model_predictions.csv</a> excel file. Just click the link to view.</p>
+<b>Within the scope of this project, a classification model was builded whether lemons have good quality, bad quality or empty through data.</b>The results of the model on the test data are in the <a  href="https://github.com/doguilmak/Lemon-Quality-Classification-with-CAM/blob/main/model_predictions.csv">model_predictions.csv</a> excel file. Just click the link to view.</p>
 
 <br>
 
@@ -57,6 +57,8 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 <small>Empty: 0.3149782419204712</small> 
 
 <small>Good quality: 0.30790096521377563</small>
+
+<br>
 
 <h2>Dataset License</h2>
 
