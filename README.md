@@ -6,7 +6,7 @@
 
 <small>Picture Source:<a  href="https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg"> britannica</a>
 
-<br> 
+<br>
 
 <h2>Description</h2>
 
