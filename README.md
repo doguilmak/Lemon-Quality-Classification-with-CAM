@@ -66,6 +66,8 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 
 <i>Putting a database or dataset in the _public domain_ under _CC0_ is a way to remove any legal doubt about whether researchers can use the data in their projects.</i>
 
+<br>
+
 <h2>Contact Me</h2>
 
 <p>If you have something to say to me please contact me:</p>
