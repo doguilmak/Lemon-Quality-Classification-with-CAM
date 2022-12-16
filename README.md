@@ -52,15 +52,24 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 
 <img width=850  height=500 src="bad_quality_output.png">
 
-<p>Output</p>
-
-<small>Bad quality: 0.3771207928657532</small> 
-
-<small>Empty: 0.3149782419204712</small> 
-
-<small>Good quality: 0.30790096521377563</small>
-
 <br>
+
+<div align="center">
+	<table>  
+		<tr>  
+			<th>Output (CAM Model)</th>    
+		</tr>  
+		<tr>  
+			<td><small>Bad quality: 0.3771207928657532</small></td>    
+		</tr>  
+		<tr>  
+			<td><small>Empty: 0.3149782419204712</small></td>   
+		</tr> 
+		 <tr>  
+			<td><small>Good quality: 0.30790096521377563</small></td>   
+		</tr> 
+	</table>
+</div>
 
 <h2>Dataset License</h2>
 
