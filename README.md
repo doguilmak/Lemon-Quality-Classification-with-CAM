@@ -50,7 +50,7 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 
 <h2>Prediction with Class Activation Map (CAM)</h2>
 
-<img width=850  height=500 src="bad_quality_output.png">
+<img width=500  height=500 src="bad_quality_output.png">
 
 <br>
 
