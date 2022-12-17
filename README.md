@@ -24,17 +24,6 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 
 <br>
 
-<h2>Objective:</h2>
-
-<ul>
-	<li>Understand the dataset & cleanup (if required).</li>
-	<li>Build classification models to predict the lemon class.</li>
-	<li>Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.</li>
-	<li>Build class activation maps (CAM).</li>
-</ul>
-
-<br>
-
 <h2>Keywords</h2>
 
 <ul>
@@ -44,6 +33,25 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 	<li>Class Activation Map</li>
 	<li>Neural Networks</li>
 	<li>Lemons</li>
+</ul>
+
+<br>
+
+<h2>Dataset License</h2>
+
+<a  href="https://creativecommons.org/publicdomain/zero/1.0/">CC0: Public Domain</a>
+
+<i>Putting a database or dataset in the _public domain_ under _CC0_ is a way to remove any legal doubt about whether researchers can use the data in their projects.</i>
+
+<br>
+
+<h2>Objective:</h2>
+
+<ul>
+	<li>Understand the dataset & cleanup (if required).</li>
+	<li>Build classification models to predict the lemon class.</li>
+	<li>Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.</li>
+	<li>Build class activation maps (CAM).</li>
 </ul>
 
 <br>
@@ -72,12 +80,6 @@ Dataset contains images of both bad and good quality lemons under slightly diffe
 		</tr> 
 	</table>
 </div>
-
-<h2>Dataset License</h2>
-
-<a  href="https://creativecommons.org/publicdomain/zero/1.0/">CC0: Public Domain</a>
-
-<i>Putting a database or dataset in the _public domain_ under _CC0_ is a way to remove any legal doubt about whether researchers can use the data in their projects.</i>
 
 <br>
 
